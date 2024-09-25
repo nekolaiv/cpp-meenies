@@ -6,8 +6,6 @@ Welcome to my collection of mini C++ command-line interface-based (CLI) projects
 
 - [Projects](#projects)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Projects
