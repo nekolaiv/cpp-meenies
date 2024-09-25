@@ -1,4 +1,4 @@
-# Mini C++ CLI Projects
+# Mini C++ CLI-Based Projects
 
 Welcome to my collection of mini C++ command-line interface-based (CLI) projects! This repository showcases various small-scale applications that demonstrate the versatility and power of C++ in CLI environments.
 
