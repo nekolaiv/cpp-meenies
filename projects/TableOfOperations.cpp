@@ -284,7 +284,7 @@ int main() {
   char Choice;
 
   std::cout << "CALCULATOR" << std::endl;
-  std::cout << "Pick an Operation [+, -, *, /, ^, !] \n>> ";
+  std::cout << "Pick an Operation [+, -, *, /, ^, !] or 'q' to quit. \n>> ";
   std::cin >> Choice;
 
   switch (Choice) {
@@ -317,6 +317,10 @@ int main() {
     Clear();
     Factorial();
     return main();
+
+  case 'q':
+  case 'Q':
+    return 0;
 
   default:
     Clear();
