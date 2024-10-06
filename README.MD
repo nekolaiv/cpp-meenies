@@ -34,8 +34,8 @@ To get started with any of the projects, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/nekolaiv/cpp-minies.git
+   cd cpp-minies
    ```
 
 - Make sure you already set up c++ in your device.
