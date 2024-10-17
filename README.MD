@@ -4,28 +4,8 @@ Welcome to my collection of mini C++ command-line interface-based (CLI) projects
 
 ## Table of Contents
 
-- [Projects](#projects)
 - [Getting Started](#getting-started)
 - [License](#license)
-
-## Projects
-
-Here is a list of the projects included in this repository:
-
-1. **Average Calculator**
-
-   - **Description:** A command-line tool that calculates the average grades for various subjects, providing an easy way to track academic performance.
-   - **Features:**
-     - Input and manage grades for multiple subjects.
-     - Calculate and display average grades with clear formatting.
-
-2. **Banking System**
-
-   - **Description:** A simple command-line banking system that allows users to perform basic operations such as deposit and withdrawal.
-   - **Features:**
-     - Deposit and withdraw funds with real-time balance updates.
-     - Display account balance and transaction history.
-     - Simple user interface for ease of use.
 
 ## Getting Started
 
